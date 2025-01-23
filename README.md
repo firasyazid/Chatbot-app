@@ -17,7 +17,7 @@ This project is a chatbot where users can send messages in real time and receive
 ### Prerequisites
 Make sure the following are installed:
 
-- **Docker**: [Install Docker]
+- **Docker**: [Install Docker]https://www.docker.com/products/docker-desktop/
 
 ### Steps to Set Up
 1. Clone the repository:
